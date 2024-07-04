@@ -79,15 +79,8 @@ a{
     color: white;
     text-decoration: none;
 }
-#j{
-    padding: 10px 10px 10px 10px;
-    /*clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%);*/
-    
-}
-#k,#l{
-    padding: 10px 10px 10px 10px;
-    /*clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);*/
-    
+#k,#l,#j{
+    padding: 10px 10px 10px 10px;    
 }
 body{
     background-color: slategray;
