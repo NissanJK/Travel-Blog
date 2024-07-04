@@ -89,5 +89,9 @@ img{
     border: 3px solid slategray;
 }
 footer{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 10px 10px 10px;
     color: silver;
 }
