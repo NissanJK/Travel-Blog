@@ -1,0 +1,57 @@
+h1,h2{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+    text-shadow: 0px -10px 20px navy;
+}
+h4{
+    color: wheat;
+    font-weight: bolder;
+}
+p,li,ol,ul{
+    text-align: justify;
+}
+.a,footer{
+    text-align: center;
+}
+h1,h2,h4,p,span,li,footer{
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    height: 500px;
+    background-image: url(Solo-Travel-in-Nature-acbfea52bfaf.jpg);
+    background-size: cover;
+    box-shadow: 0px 10px 15px darkolivegreen;
+    margin-bottom: 15px;
+}
+#xx,#nn{
+    background-color: #245501;
+    box-shadow: 0px 10px 15px #245501;
+}
+#yy,#mm{
+    background-color: #538d22;
+    box-shadow: 0px 10px 15px #538d22;
+}
+#zz,#dd{
+    background-color: #73a942;
+    box-shadow: 0px 10px 15px #73a942;
+}
+#ss,#oo{
+    background-color: #aad576;
+    box-shadow: 0px 10px 15px #aad576;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    margin-bottom: 15px;
+    padding: 10px 10px 10px 10px;
+    color: whitesmoke;
+}
+.h{
+    display: inline-block;
+    text-align: right;
+}
